@@ -5,13 +5,13 @@
       {
         "appID": "N9X2A789QT.com.my.defense.test",
         "paths": [
-          "/game/*"
+          "*"
         ]
       },
       {
         "appID": "N9X2A789QT.com.my.defense",
         "paths": [
-          "/game/*"
+          "*"
         ]
       }
     ]
