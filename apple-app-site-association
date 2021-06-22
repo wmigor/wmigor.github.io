@@ -4,11 +4,11 @@
         "details": [
             {
                 "appID": "N9X2A789QT.com.my.defense.test",
-                "paths": [ "*" ]
+                "paths": [ "/game" ]
             },
             {
                 "appID": "N9X2A789QT.com.my.defense",
-                "paths": [ "*" ]
+                "paths": [ "/game" ]
             }
         ]
     }
